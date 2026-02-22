@@ -14,3 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+💻 IT Support | Networking & Systems | IoT & Embedded Systems  
+🎓 Curtin University | Computer Systems & Networking  
+📍 Perth, Australia  
+
+## 🔧 Skills
+- Networking (Cisco, VLANs, Routing)
+- IT Support (Windows, Linux)
+- Embedded Systems (MSP430, Arduino)
+- Python, C, SQL
+- Cybersecurity Fundamentals
+
+## 📌 Featured Projects
+- IoT Accident Detection System
+- MSP430 Embedded Systems Projects
+- Networking & Systems Administration
+- Software Engineering Projects
+
+## 📫 Connect
+LinkedIn | GitHub
